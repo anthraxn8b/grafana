@@ -113,6 +113,7 @@ Content-Type: application/json
   "text":"Annotation Description"
 }
 ```
+`time` and `timeEnd` are UTC based and should be a timestamp in milliseconds.
 
 **Example Response**:
 
